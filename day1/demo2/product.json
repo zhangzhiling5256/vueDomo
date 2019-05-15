@@ -1,0 +1,18 @@
+[
+  {
+    "isSelected": true,
+    "productCover": "https://img10.360buyimg.com/cms/s80x80_jfs/t30796/148/414260937/409615/388d87c2/5bf24e97N130de2a6.jpg",
+    "productName": "Node.js开发实战",
+    "productInfo": "Node.js开发实战最新版",
+    "productPrice": 62.2,
+    "productCount": 2
+  },
+  {
+    "isSelected": true,
+    "productCover": "https://img10.360buyimg.com/cms/s80x80_g15/M07/17/03/rBEhWVKMZ1AIAAAAAAVG8mJwrncAAFuKwEuVBwABUcK039.jpg",
+    "productName": "了不起的Node.js",
+    "productInfo": "了不起的Node.js",
+    "productPrice": 62.4,
+    "productCount": 1
+  }
+]
